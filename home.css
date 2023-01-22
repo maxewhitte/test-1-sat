@@ -51,6 +51,8 @@
 .intro-langs{
     position: relative;
     z-index: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .intro-title, .intro-bar, .intro-para{
